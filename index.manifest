@@ -14,5 +14,5 @@ CACHE:
  assets/font/h.woff2
  assets/css/style.css
  
-
-
+NETWORK:
+*
